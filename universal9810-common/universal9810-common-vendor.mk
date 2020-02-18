@@ -49,5 +49,4 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleExCORTEXM4 \
-    HotwordEnrollmentXGoogleExCORTEXM4 \
-    sswap
+    HotwordEnrollmentXGoogleExCORTEXM4
